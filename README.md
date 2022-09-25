@@ -17,12 +17,12 @@ System.out.print.ln('Hello World!');
 ❿  
 
 ## 🧰 My Skills
-| ₪          | Language       | Framework             | Other  |
-|------------|-----------------------|-----------------------|-----------------------|
-| Front End  | ![](javascript.png)![](typescript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](html.png)![](css.png) |
-| Back End   | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png) | ![](Key-A.png)        |
+| ₪          |                                    Language                                              | Framework                       | Other                 |
+|------------|------------------------------------------------------------------------------------------|---------------------------------|-----------------------|
+| Front End  | ![](javascript.png)![](typescript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](html.png)![](css.png)       |
+| Back End   | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)       | ![](hibernate.png)![](maven.png)|
 
-### LENGUAJES DE PROGRAMACIÓN & FRAMEWORKS
+
 
 
 
