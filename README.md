@@ -5,15 +5,28 @@
 System.out.print.ln('Hello World!');
 -->
 ## 🏗 My favorite Projects
-- My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
-- My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
-- My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+❶ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
+❷ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
+❸ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
+❹ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
+❺ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
+❻  
+❼  
+❽  
+❾  
+❿  
 
+![](logo-react.png?cropResize=50,50)
 
 ## 🧰 My Skills
-| Lilu        | Programming Language  | Framework             | Other  |
-|-------------|-----------------------|-----------------------|-----------------------|
-| Front End   | ![](Key-A.png)        |                       | ![](Key-A.png)        |
-| Back End    | ![](Key-A.png)        | ![](Key-A.png)        | ![](Key-A.png)        |
+| ₪          | Programming Language  | Framework             | Other  |
+|------------|-----------------------|-----------------------|-----------------------|
+| Front End  | ![](Key-A.png)        |                       | ![](Key-A.png)        |
+| Back End   | ![](Key-A.png)        | ![](Key-A.png)        | ![](Key-A.png)        |
 
 ### LENGUAJES DE PROGRAMACIÓN & FRAMEWORKS
+
+
+
+
+
