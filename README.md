@@ -20,7 +20,7 @@ System.out.print.ln('Hello World!');
 | ₪          | Language       | Framework             | Other  |
 |------------|-----------------------|-----------------------|-----------------------|
 | Front End  | ![](javascript.png)![](typescript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](html.png)![](css.png) |
-| Back End   | ![](Key-A.png)        | ![](Key-A.png)        | ![](Key-A.png)        |
+| Back End   | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png) | ![](Key-A.png)        |
 
 ### LENGUAJES DE PROGRAMACIÓN & FRAMEWORKS
 
