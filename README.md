@@ -19,7 +19,7 @@ System.out.print.ln('Hello World!');
 ## 🧰 My Skills
 | ₪          | Language       | Framework             | Other  |
 |------------|-----------------------|-----------------------|-----------------------|
-| Front End  | ![](javascript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](Key-A.png)        |
+| Front End  | ![](javascript.png)![](typescript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](html.png)![](css.png) |
 | Back End   | ![](Key-A.png)        | ![](Key-A.png)        | ![](Key-A.png)        |
 
 ### LENGUAJES DE PROGRAMACIÓN & FRAMEWORKS
