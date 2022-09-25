@@ -16,12 +16,10 @@ System.out.print.ln('Hello World!');
 ❾  
 ❿  
 
-![](logo-react.png?cropResize=50,50)
-
 ## 🧰 My Skills
-| ₪          | Programming Language  | Framework             | Other  |
+| ₪          | Language       | Framework             | Other  |
 |------------|-----------------------|-----------------------|-----------------------|
-| Front End  | ![](Key-A.png)        |                       | ![](Key-A.png)        |
+| Front End  | ![](javascript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](Key-A.png)        |
 | Back End   | ![](Key-A.png)        | ![](Key-A.png)        | ![](Key-A.png)        |
 
 ### LENGUAJES DE PROGRAMACIÓN & FRAMEWORKS
