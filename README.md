@@ -6,8 +6,8 @@ System.out.print.ln('Hello World!');
 -->
 
 ## 🏗 My favorite Projects
-❶ My favorite search engine is [Ssitio Web para Duck Duck Go](https://github.com/nicolasbncruz/upc)  
-❷ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
+❶ HTML, Bootstrap, Javascript, Angular, Node JS [Sitio Web para Million Consulting](https://github.com/nicolasbncruz/upc)  
+❷ My favorite search engine is [Duck Duck Go](https://github.com/nicolasbncruz/webpage)  
 ❸ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
 <!---❹ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
 ❺ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
