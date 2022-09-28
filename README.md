@@ -6,7 +6,7 @@ System.out.print.ln('Hello World!');
 -->
 
 ## 🏗 My favorite Projects
-❶ HTML, Bootstrap, Javascript, Angular, Node JS [Sitio Web para Million Consulting](https://github.com/nicolasbncruz/upc)  
+❶ HTML, CSS, Javascript, Bootstrap, Angular, Node JS: [Sitio Web para Million Consulting](https://github.com/nicolasbncruz/upc)  
 ❷ My favorite search engine is [Duck Duck Go](https://github.com/nicolasbncruz/webpage)  
 ❸ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
 <!---❹ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
