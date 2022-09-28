@@ -22,11 +22,11 @@ System.out.print.ln('Hello World!');
 |------------|------------------------------------------------------------------------------------------|---------------------------------|-----------------------|
 | Front End  | ![](javascript.png)![](typescript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](html.png)![](css.png)       |
 | Back End   | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)       | ![](hibernate.png)![](maven.png)|
-
+<!---
 |  ∯        |                                    Tools                                              | Databases                       | Other                 |
 |------------|------------------------------------------------------------------------------------------|---------------------------------|-----------------------|
-| knowledge and practices   | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)       | ![](hibernate.png)![](maven.png)|
-
+| knowledge  | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)       | ![](hibernate.png)![](maven.png)|
+-->
 
 
 
