@@ -8,7 +8,7 @@ System.out.print.ln('Hello World!');
 ## 🏗 My favorite Projects
 ❶ Website for an IT Consulting Company: [Million Consulting](https://github.com/nicolasbncruz/upc) (HTML, CSS, Javascript, Bootstrap, Angular, Node JS)  
 ❷ CV Online Personal Website: [Profesional Java](https://github.com/nicolasbncruz/webpage) (HTML, CSS, Javascript, Bootstrap)  
-❸ Fitness Mobile App: [Make It Better Project](https://duckduckgo.com) (Java for Android, Firebase)  
+❸ Fitness Mobile App: [Make It Better Project](https://github.com/nicolasbncruz/makeitbetter) (Java for Android, Firebase)  
 <!---❹ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
 ❺ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
 ❻  
