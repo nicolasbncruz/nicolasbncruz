@@ -6,9 +6,9 @@ System.out.print.ln('Hello World!');
 -->
 
 ## 🏗 My favorite Projects
-❶ HTML, CSS, Javascript, Bootstrap, Angular, Node JS: [Sitio Web para Million Consulting](https://github.com/nicolasbncruz/upc)  
-❷ HTML, CSS, Javascript, Bootstrap: [Sitio web personal](https://github.com/nicolasbncruz/webpage)  
-❸ Java for Android, Firebase: [Make It Better Project](https://duckduckgo.com)  
+❶ Sitio Web para una Empresa de Consultoría de TI: [Million Consulting](https://github.com/nicolasbncruz/upc) (HTML, CSS, Javascript, Bootstrap, Angular, Node JS)  
+❷ Sitio web personal CV Online: [Profesional Java](https://github.com/nicolasbncruz/webpage) (HTML, CSS, Javascript, Bootstrap)  
+❸ Aplicación móvil de ejercicios físicos: [Make It Better Project](https://duckduckgo.com) (Java for Android, Firebase)  
 <!---❹ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
 ❺ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
 ❻  
