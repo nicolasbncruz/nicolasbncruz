@@ -29,6 +29,6 @@ System.out.print.ln('Hello World!');
 ![](1606562016017.png)
 
 -->
-## 📈My statistics
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbncruz&show_icons=true&theme=city_lights)](https://github.com/nicolasbncruz/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbncruz&show_icons=true&theme=city_lights)|
+## 📈 My statistics
+|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbncruz&show_icons=true&theme=default)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbncruz&show_icons=true&theme=default)](https://github.com/nicolasbncruz/github-readme-stats)|
 |---|---|
