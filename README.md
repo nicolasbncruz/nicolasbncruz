@@ -40,12 +40,7 @@ Javascript | Frontend Developer, I have created several projects using JavaScrip
 ## 🚀My projects 
 
 _I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects._
-
 - [Ghibli Tracker: Rate and discover your favorites Ghibli's movies](https://github.com/C10-Ghibli-s/FE-Studio-Ghibli-Tracker)
-- [Ghibli Backoffice: Manage and make CRUD for all content from Ghibli Tracker](https://github.com/C10-Ghibli-s/FE-Backoffice)
-- [Creation of an API/DATABASE deployed on heroku using Express JS and PostgreSQL](https://github.com/AreYouIvan/expressJS)
-- [E-commerce platform building in Next.js](https://github.com/AreYouIvan/react-store)
-- [Todo-list an application to increase your productivity building in React](https://github.com/AreYouIvan/react-introduction)
 
 ## ⚙ My stack technologies
 |Programming languages|Frontend|Backend|
