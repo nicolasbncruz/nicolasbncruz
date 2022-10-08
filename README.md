@@ -3,9 +3,10 @@
 <span style="align:center">![full-stack-development](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)</span>
 <!---
 System.out.print.ln('Hello World!');
+
 -->
 
-## 🏗 My favorite Projects:
+## 🏗 My favorite Projects
 ❶ Website for an IT Consulting Company: [Million Consulting](https://github.com/nicolasbncruz/upc) (HTML, CSS, Javascript, Bootstrap, Angular, Node JS)  
 ❷ CV Online Personal Website: [Profesional Java](https://github.com/nicolasbncruz/webpage) (HTML, CSS, Javascript, Bootstrap)  
 ❸ Fitness Mobile App: [Make It Better Project](https://github.com/nicolasbncruz/makeitbetter) (Java for Android, Firebase)  
@@ -17,7 +18,7 @@ System.out.print.ln('Hello World!');
 ❾  
 ❿  -->
 
-## 🧰 My Skills:
+## 🧰 My Skills
 |  ∯        |                                    Language                                              | Framework                       | Other                 |
 |------------|------------------------------------------------------------------------------------------|---------------------------------|-----------------------|
 | Front End  | ![](javascript.png)![](typescript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](html.png)![](css.png)       |
@@ -29,6 +30,6 @@ System.out.print.ln('Hello World!');
 ![](1606562016017.png)
 
 -->
-## 📈 My statistics:
+## 📈 My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbncruz&show_icons=true&theme=tokyonight)](https://github.com/nicolasbncruz/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbncruz&show_icons=true&theme=tokyonight)|
 |---|---|
