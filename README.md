@@ -39,9 +39,9 @@ System.out.print.ln('Hello World!');
 | Front End  | ![](javascript.png)![](typescript.png) | ![](react.png)![](redux.png)![](angular.png)![](bootstrap.png)| ![](html.png)![](css.png)       |
 | Back End   | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)       | ![](hibernate.png)![](maven.png)|
 
-| Knowledge | ![](javascript.png)![](typescript.png)![](spring.png)![](cloud.png)![](security.png)![](data.png)        ![](hibernate.png)![](maven.png) |
+| Knowledge | ![](firebase.png)![](git-bash.png)![](postman.png)![](swagger.png)![](visual.png)![](intellij.png)![](netlify.png)![](railway.png) |
 | --- | --- |
-![](1606562016017.png)
+
 <!--
 |  ∯        |                                    Tools                                              | Databases                       | Other                 |
 |------------|------------------------------------------------------------------------------------------|---------------------------------|-----------------------|
