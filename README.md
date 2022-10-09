@@ -7,7 +7,7 @@ System.out.print.ln('Hello World!');
 -->
 
 ## 👨‍💻About me
-> ***Degree in computing and information technology and bachelor's degree in systems engineering at the UPC🎓🥇 . I'm RxJava 11 Programmer Angular & React Front End Developer and Azure DevOps. I have experience in technology companies in banking🏦, electronic invoicing🧾 and e-commerce 🛒***
+> ***Degree in computing & information technology in Cibertec and bachelor's degree in systems engineering at the UPC🎓🥇 . I'm RxJava 11 Programmer Angular & React Front End Developer and Azure DevOps. I have experience in technology companies in banking🏦, electronic invoicing🧾 and e-commerce 🛒***
 ***
 ## 🏗 My favorite Projects
 ```html
@@ -21,6 +21,7 @@ System.out.print.ln('Hello World!');
   </body>
 </html>
 ```
+
 ❶ Website for an IT Consulting Company: [Million Consulting](https://github.com/nicolasbncruz/upc) (HTML, CSS, Javascript, Bootstrap, Angular, Node JS)  
 ❷ CV Online Personal Website: [Profesional Java](https://github.com/nicolasbncruz/webpage) (HTML, CSS, Javascript, Bootstrap)  
 ❸ Fitness Mobile App: [Make It Better Project](https://github.com/nicolasbncruz/makeitbetter) (Java for Android, Firebase)  
@@ -38,10 +39,9 @@ System.out.print.ln('Hello World!');
 | Front End  | ![](javascript.png)![](typescript.png) | ![](react.png)![](angular.png)![](bootstrap.png)| ![](html.png)![](css.png)       |
 | Back End   | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)       | ![](hibernate.png)![](maven.png)|
 
-
+| Knowledge | ![](javascript.png)![](typescript.png)![](spring.png)![](cloud.png)![](security.png)![](data.png)        ![](hibernate.png)![](maven.png) |
 | --- | --- |
-| Other  | ![](spring.png)![](cloud.png)![](security.png)![](data.png)        ![](hibernate.png)![](maven.png)|
-
+![](1606562016017.png)
 <!--
 |  ∯        |                                    Tools                                              | Databases                       | Other                 |
 |------------|------------------------------------------------------------------------------------------|---------------------------------|-----------------------|
