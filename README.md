@@ -10,16 +10,19 @@ System.out.print.ln('Hello World!');
 > ***Degree in computing & information technology in Cibertec and bachelor's degree in systems engineering at the UPC🎓🥇 . I'm RxJava 11 Programmer Angular & React Front End Developer and Azure DevOps. I have experience in technology companies in banking🏦, electronic invoicing🧾 and e-commerce 🛒***
 ***
 ## 🏗 My favorite Projects
-```html
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <title>My Favorite Projects</title>
-  </head>
-  <body>
-    <div><h1>Thanks for your visit!</h1></div>
-  </body>
-</html>
+```java
+import health;
+import happiness;
+public class Live{
+  if(myHeartWorks){wishesToImprove=true;} 
+  while(wishesToImprove){    
+    push(passion);    
+    push(curiosity);
+    push(perseverance);
+    time++;
+  }  
+  System.out.println("The live is very exciting");
+}
 ```
 
 ❶ Website for an IT Consulting Company: [Million Consulting](https://github.com/nicolasbncruz/upc) (HTML, CSS, Javascript, Bootstrap, Angular, Node JS)  
@@ -47,7 +50,17 @@ System.out.print.ln('Hello World!');
 |------------|------------------------------------------------------------------------------------------|---------------------------------|-----------------------|
 | knowledge  | ![](java.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)       | ![](hibernate.png)![](maven.png)|
 ![](1606562016017.png)
-
+```html
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>My Favorite Projects</title>
+  </head>
+  <body>
+    <div><h1>Thanks for your visit!</h1></div>
+  </body>
+</html>
+```
 -->
 ## 📈 My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbncruz&show_icons=true&theme=tokyonight)](https://github.com/nicolasbncruz/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbncruz&show_icons=true&theme=tokyonight)|
