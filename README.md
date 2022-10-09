@@ -21,7 +21,7 @@ public class Live{
     push(perseverance);
     time++;
   }  
-  System.out.println("The live is very exciting");
+  System.out.println("Life is very exciting: " + carpeDiem);
 }
 ```
 
