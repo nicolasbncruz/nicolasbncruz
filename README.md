@@ -10,7 +10,7 @@ System.out.print.ln('Hello World!');
 > ***Degree in computing & information technology in Cibertec and bachelor's degree in systems engineering at the UPC🎓🥇 . I'm RxJava 11 Programmer Angular & React Front End Developer and Azure DevOps. I have experience in technology companies in banking🏦, electronic invoicing🧾 and e-commerce 🛒***
 ***
 ## 🏗 My favorite Projects
-```java
+```javascript
 import health;
 import happiness;
 public class Live{
