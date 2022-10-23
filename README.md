@@ -13,7 +13,7 @@ System.out.print.ln('Hello World!');
 ```javascript
 import health;
 import happiness;
-public class Live{
+public class SecretOfLive{
   if(myHeartWorks){wishesToImprove=true;} 
   while(wishesToImprove){    
     push(passion);    
