@@ -6,7 +6,7 @@ System.out.print.ln('Hello World!');
 -->
 
 ## 👨‍💻About me
-> ***Bachelor's degree in Systems Engineering at the UPC and Degree in Computing & Information technology in Cibertec🎓🥇 . I'm Rx Java 11 Programmer Back End - Angular & React Front End Developer and Azure DevOps. I have experience in technology companies in banking🏦, electronic invoicing🧾 and e-commerce 🛒***
+> ***Bachelor's degree in Systems Engineering at the UPC and Degree in Computing & Information technology in Cibertec🎓🥇. I'm Rx Java 11 Programmer Back End - Angular & React Front End Developer and Azure DevOps. I have experience in technology companies in banking🏦, electronic invoicing🧾 and e-commerce 🛒***
 ***
 ## 🏗 My favorite Projects
 ```javascript
