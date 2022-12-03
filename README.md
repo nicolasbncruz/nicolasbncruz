@@ -17,7 +17,7 @@ public class SecretOfLife{
     push(perseverance);
     time++;
   }  
-  System.out.println("Life is very exciting!!");
+  System.out.println("Life is very exciting!");
 }
 ```
 
