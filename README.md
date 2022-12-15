@@ -38,11 +38,10 @@ public class SecretOfLife{
 | Front End | ![](javascript.png)![](typescript.png) | ![](html.png)![](css.png) ![](angular.png)![](bootstrap.png) ![](react.png)![](redux.png)   |
 | Back End   | ![](java.png)![](node-js.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)    ![](hibernate.png)![](maven.png) |
 
-| Cloud & DB |  |
+|  |  |
 | --- | --- |
-
-| Knowledge | ![](firebase.png)  ![](git-bash.png)   ![](postman.png)   ![](swagger.png)     ![](visual.png)   ![](intellij.png)   ![](netlify.png)   ![](railway.png) |
-| --- | --- |
+| Cloud & DB | ![](firebase.png) |
+| Knowledge | ![](firebase.png) ![](git-bash.png) ![](postman.png) ![](swagger.png)  ![](visual.png) ![](intellij.png) ![](netlify.png) ![](railway.png) |
 
 ## 📈 My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbncruz&show_icons=true&theme=tokyonight)](https://github.com/nicolasbncruz/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbncruz&show_icons=true&theme=tokyonight)|
