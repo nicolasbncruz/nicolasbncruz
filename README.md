@@ -40,7 +40,7 @@ public class SecretOfLife{
 
 |  ∰ | Technologies - Tools |
 | --- | --- |
-| Cloud & DB | ![](firebase.png) |
+| Cloud & DB | ![](azure-devops.png) |
 | Knowledge | ![](firebase.png) ![](git-bash.png) ![](postman.png) ![](swagger.png)  ![](visual.png) ![](intellij.png) ![](netlify.png) ![](railway.png) |
 
 ## 📈 My statistics
