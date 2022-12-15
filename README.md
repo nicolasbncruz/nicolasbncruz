@@ -38,6 +38,9 @@ public class SecretOfLife{
 | Front End | ![](javascript.png)![](typescript.png) | ![](html.png)![](css.png) ![](angular.png)![](bootstrap.png) ![](react.png)![](redux.png)   |
 | Back End   | ![](java.png)![](node-js.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)    ![](hibernate.png)![](maven.png) |
 
+| Cloud & DB |  |
+| --- | --- |
+
 | Knowledge | ![](firebase.png)  ![](git-bash.png)   ![](postman.png)   ![](swagger.png)     ![](visual.png)   ![](intellij.png)   ![](netlify.png)   ![](railway.png) |
 | --- | --- |
 
