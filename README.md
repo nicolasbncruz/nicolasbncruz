@@ -35,7 +35,7 @@ public class SecretOfLife{
 ## 🧰 My Skills
 | ∯ | Language | Other - Framework - Library |
 | --- | --- | --- |
-| Front End | ![](javascript.png)![](typescript.png) | ![](html.png)![](css.png) ![](angular.png)![](bootstrap.png) ![](react.png)![](redux.png)   |
+| Front End | ![](javascript.png)![](10.png)![](typescript.png) | ![](html.png)![](css.png) ![](angular.png)![](bootstrap.png) ![](react.png)![](redux.png)   |
 | Back End   | ![](java.png)![](node-js.png)        | ![](spring.png)![](cloud.png)![](security.png)![](data.png)    ![](hibernate.png)![](maven.png) |
 
 |  ∰ | Technologies - Tools |
