@@ -36,7 +36,7 @@ public class SecretOfLife{
 | ∯ | Language | Other - Framework - Library |
 | --- | --- | --- |
 | Front End | ![](javascript.png)![](10.png)![](typescript.png) | ![](html.png)![](10.png)![](css.png) ![](10.png)![](angular.png)![](10.png)![](bootstrap.png)![](10.png)![](react.png)![](10.png)![](redux.png)   |
-| Back End   | ![](java.png)![](10.png)![](node-js.png)        | ![](spring.png)![](10.png)![](cloud.png)![](security.png)![](data.png)    ![](hibernate.png)![](maven.png) |
+| Back End   | ![](java.png)![](10.png)![](node-js.png)        | ![](spring.png)![](10.png)![](cloud.png)![](10.png)![](security.png)![](data.png)    ![](hibernate.png)![](maven.png) |
 
 |  ∰ | Technologies - Tools |
 | --- | --- |
