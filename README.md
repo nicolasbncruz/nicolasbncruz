@@ -42,9 +42,7 @@ public class SecretOfLife{
 | --- | --- |
 | Cloud & DB | ![](azure-devops.png)![](10.png)![](Jenkins2.png)![](10.png)![](new-relic.png) |
 | Knowledge | ![](firebase.png)![](10.png)![](git-bash.png)![](10.png)![](postman.png)![](10.png)![](swagger.png)![](10.png)![](visual.png)![](10.png)![](intellij.png) ![](10.png)![](netlify.png)![](10.png)![](railway.png)|
-<!-- 
-![](example_nice.png)
--->
+<!-- ![](example_nice.png)-->
 
 <!--
 ## 📈 My statistics
