@@ -1,10 +1,11 @@
 <!-- <img align="center" src="https://github.com/nicolasbncruz/nicolasbncruz/blob/master/banner.png"/> -->
 ## 🏡 Welcome! 👋 I hope my projects are to your liking :D
 <span style="align:center">![full-stack-development](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)</span>
-
+<!--
 ## 👨‍💻About me
 > ***Bachelor's degree in Systems Engineering at the UPC and Degree in Computing & Information technology in Cibertec🎓🥇. I'm Rx Java 11 Programmer Back End - Angular & React Front End Developer and Azure DevOps. I have experience in technology companies in banking🏦, electronic invoicing🧾 and e-commerce 🛒***
 ***
+-->
 ## 🏗 My favorite Projects
 ```javascript
 import health;
@@ -43,9 +44,9 @@ public class SecretOfLife{
 | Cloud & DB | ![](azure-devops.png)![](10.png)![](Jenkins2.png)![](10.png)![](10.png)![](new-relic.png) |
 | Knowledge | ![](firebase.png)![](10.png)![](git-bash.png)![](10.png)![](postman.png)![](10.png)![](swagger.png)![](10.png)![](visual.png)![](10.png)![](10.png)![](intellij.png) ![](10.png)![](netlify.png)![](10.png)![](railway.png)|
 <!-- ![](example_nice.png) 
--->
+
 
 ## 📈 My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbncruz&show_icons=true&theme=tokyonight)](https://github.com/nicolasbncruz/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbncruz&show_icons=true&theme=tokyonight)|
 |---|---|
-
+-->
