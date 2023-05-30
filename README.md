@@ -1,11 +1,12 @@
 <!-- <img align="center" src="https://github.com/nicolasbncruz/nicolasbncruz/blob/master/banner.png"/> -->
+<!--
 ## 🏡 Welcome! 👋 I hope my projects are to your liking :D
 <span style="align:center">![full-stack-development](https://user-images.githubusercontent.com/24864482/111586408-c8dd8a80-878e-11eb-94c8-483e2962a667.gif)</span>
-<!--
+
 ## 👨‍💻About me
 > ***Bachelor's degree in Systems Engineering at the UPC and Degree in Computing & Information technology in Cibertec🎓🥇. I'm Rx Java 11 Programmer Back End - Angular & React Front End Developer and Azure DevOps. I have experience in technology companies in banking🏦, electronic invoicing🧾 and e-commerce 🛒***
 ***
--->
+
 ## 🏗 My favorite Projects
 ```javascript
 import health;
@@ -24,7 +25,7 @@ public class SecretOfLife{
 
 ❶ Website for an IT Consulting Company: [Million Consulting](https://github.com/nicolasbncruz/upc) (HTML, CSS, Javascript, Bootstrap, Angular, Node JS)  
 ❷ CV Online Personal Website: [Profesional Java](https://github.com/nicolasbncruz/webpage) (HTML, CSS, Javascript, Bootstrap)  
-❸ Fitness Mobile App: [Make It Better Project](https://github.com/nicolasbncruz/makeitbetter) (Java for Android, Firebase)  
+❸ Fitness Mobile App: [Make It Better Project](https://github.com/nicolasbncruz/makeitbetter) (Java for Android, Firebase)  -->
 <!---❹ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  
 ❺ My favorite search engine is [Duck Duck Go](https://duckduckgo.com)  esa ess
 ❻  
