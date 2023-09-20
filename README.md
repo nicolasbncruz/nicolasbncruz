@@ -47,9 +47,9 @@ public class SecretOfLife{
 | Cloud & DB | ![](azure-devops.png)![](10.png)![](Jenkins2.png)![](10.png)![](10.png)![](new-relic.png) |
 | Knowledge | ![](firebase.png)![](10.png)![](git-bash.png)![](10.png)![](postman.png)![](10.png)![](swagger.png)![](10.png)![](visual.png)![](10.png)![](10.png)![](intellij.png) ![](10.png)![](netlify.png)![](10.png)![](railway.png)|
 <!-- ![](example_nice.png) 
--->
+--
 ## 📈 My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbncruz&show_icons=true&theme=tokyonight)](https://github.com/nicolasbncruz/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbncruz&show_icons=true&theme=tokyonight)|
 |---|---|
 
-
+-->
