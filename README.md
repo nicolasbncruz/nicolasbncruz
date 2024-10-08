@@ -49,7 +49,7 @@ public class SecretOfLife{
 
 <!--
 ![](example_nice.png) -->
-## 📈 My statistics
+<!--## 📈 My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbncruz&show_icons=true&theme=tokyonight)](https://github.com/nicolasbncruz/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbncruz&show_icons=true&theme=tokyonight)|
-|---|---|<!--
+|---|---|
 -->
